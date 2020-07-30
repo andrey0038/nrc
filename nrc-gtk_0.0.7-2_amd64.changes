@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Jul 2020 12:00:00 +0000
+Source: nrc-gtk
+Binary: nrc-gtk
+Architecture: source all
+Version: 0.0.7-2
+Distribution: unstable
+Urgency: low
+Maintainer: fishnet <kaminskiy.a@fish-net.kz>
+Changed-By: fishnet <kaminskiy.a@fish-net.kz>
+Description:
+ nrc-gtk    - gtk package for Normal RDP Client
+Changes:
+ nrc-gtk (0.0.7-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ a5dbad6466de9c1e27debb6b9e9107c63eee9f17 503 nrc-gtk_0.0.7-2.dsc
+ 5767f848705eedf968a251707f9174fb7ce28572 902 nrc-gtk_0.0.7-2.tar.gz
+ 52223427bcda0e214ef23ca40160a136c4607b7c 1400 nrc-gtk_0.0.7-2_all.deb
+ c6e00cdbaefd93ff8c82a21339e0f6abb68535a1 4450 nrc-gtk_0.0.7-2_amd64.buildinfo
+Checksums-Sha256:
+ 212287e58f9bc1b9fae3f74ef2b36850c823f20c5ce1d76a55d3e3744aa554c5 503 nrc-gtk_0.0.7-2.dsc
+ 64ab19353be2df3148767cf973128a01a1ca717e692f6358f78fa02ca7ae8367 902 nrc-gtk_0.0.7-2.tar.gz
+ 61aac412616545487c4531a945ddf641214a456df27d91b8622a42a678a4687c 1400 nrc-gtk_0.0.7-2_all.deb
+ fbf0c0b0b36b8376a9e57bba6400ca01bb73f1c86c22cf525680f0062ae15b51 4450 nrc-gtk_0.0.7-2_amd64.buildinfo
+Files:
+ 3e01607e7cf8bbfdb9744bae4fff5756 503 contrib/net optional nrc-gtk_0.0.7-2.dsc
+ 0f2182b2b08c68dd3b3fe4c4e573619c 902 contrib/net optional nrc-gtk_0.0.7-2.tar.gz
+ 5812946e392f64fce3da347892bda28c 1400 contrib/net optional nrc-gtk_0.0.7-2_all.deb
+ b030879cf2807ecf7bcdbcb349b93edd 4450 contrib/net optional nrc-gtk_0.0.7-2_amd64.buildinfo

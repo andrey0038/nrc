@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Jul 2020 12:00:00 +0000
+Source: nrc-qt4
+Binary: nrc-qt4
+Architecture: source all
+Version: 0.0.7-2
+Distribution: unstable
+Urgency: low
+Maintainer: fishnet <kaminskiy.a@fish-net.kz>
+Changed-By: fishnet <kaminskiy.a@fish-net.kz>
+Description:
+ nrc-qt4    - qt4 package for Normal RDP Client
+Changes:
+ nrc-qt4 (0.0.7-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 1c46bcc1b39e034536f182ebb83ad671f4d2899c 503 nrc-qt4_0.0.7-2.dsc
+ 07c9bfa7a7ab6d421baf6dc9bab919dd60e1919a 903 nrc-qt4_0.0.7-2.tar.gz
+ 8060f7ca037cecd9bde1f32502565b0fee255137 1396 nrc-qt4_0.0.7-2_all.deb
+ 0506f2ff279018e7048b21fc4767907a1992b887 4450 nrc-qt4_0.0.7-2_amd64.buildinfo
+Checksums-Sha256:
+ a219a4ff26cfbcf36bd4c0369f29d8b1390e560ad9a26089df3d7647d441236d 503 nrc-qt4_0.0.7-2.dsc
+ f70f983bf14d1bc1d685f28428d7efe19ad7a770c511594f5d0aba7462054f29 903 nrc-qt4_0.0.7-2.tar.gz
+ a5e085b767a15464a61e2bbe995401300eb074120b3d9d51fef901784806bb9b 1396 nrc-qt4_0.0.7-2_all.deb
+ ebc23ffddc050c26ac8f3d3be3c0e1cb25abbae0e4ae0cf544756d1295c6589f 4450 nrc-qt4_0.0.7-2_amd64.buildinfo
+Files:
+ 6ea6f7e2824227f552d6478e3e87f53e 503 contrib/net optional nrc-qt4_0.0.7-2.dsc
+ 833c3beb2f92005a1f0f6be54218b642 903 contrib/net optional nrc-qt4_0.0.7-2.tar.gz
+ 08e1e47a1c637eafec7ac2a1e3245264 1396 contrib/net optional nrc-qt4_0.0.7-2_all.deb
+ 43f80766ee120a4bf0dd7a4c8ba357fa 4450 contrib/net optional nrc-qt4_0.0.7-2_amd64.buildinfo

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Jul 2020 12:00:00 +0000
+Source: nrc
+Binary: nrc
+Architecture: source all
+Version: 0.0.7-2
+Distribution: unstable
+Urgency: low
+Maintainer: fishnet <kaminskiy.a@fish-net.kz>
+Changed-By: fishnet <kaminskiy.a@fish-net.kz>
+Description:
+ nrc        - RDP Client graphic shell for FreeRDP
+Changes:
+ nrc (0.0.7-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 2faca964b7896fc3bbdeeadc929ae1c0e29ce608 890 nrc_0.0.7-2.dsc
+ c9a8ab4b669f893cf3c17293e3805c8eb9e5680f 1350 nrc_0.0.7-2.diff.gz
+ 277bb3c22ecdc587f925bc82350967c8b25d22db 77920 nrc_0.0.7-2_all.deb
+ 0805af76aaba99dc08ffa337d15362a4d258dd18 8240 nrc_0.0.7-2_amd64.buildinfo
+Checksums-Sha256:
+ e08d91495b6c111edc83204f8382a9f210c2bcf61c5e0e893912a23034566cdb 890 nrc_0.0.7-2.dsc
+ 9a3adf955380097edcc23658d6cf89ef68d010cda4c910fe13ebba28768ae37e 1350 nrc_0.0.7-2.diff.gz
+ 9d2c2629c32281ee40e4536be9f78c7f3d3889a295b1a069948041fe6872d893 77920 nrc_0.0.7-2_all.deb
+ 309792d2d3b34598acdbbb50a26ce6d0c5b5d24ee32aca73a24c6c6ba5432e78 8240 nrc_0.0.7-2_amd64.buildinfo
+Files:
+ 3f38f50dd1511a3111afd54b456f246c 890 contrib/net optional nrc_0.0.7-2.dsc
+ 4456791fba66d26ec4a5e35121a3bf4e 1350 contrib/net optional nrc_0.0.7-2.diff.gz
+ ae0b5a9d2a1db7f4914a68f50061a6f9 77920 contrib/net optional nrc_0.0.7-2_all.deb
+ 5a58f41a3f78f485439e719f1a295b5b 8240 contrib/net optional nrc_0.0.7-2_amd64.buildinfo

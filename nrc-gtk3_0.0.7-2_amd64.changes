@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Jul 2020 12:00:00 +0000
+Source: nrc-gtk3
+Binary: nrc-gtk3
+Architecture: source all
+Version: 0.0.7-2
+Distribution: unstable
+Urgency: low
+Maintainer: fishnet <kaminskiy.a@fish-net.kz>
+Changed-By: fishnet <kaminskiy.a@fish-net.kz>
+Description:
+ nrc-gtk3   - gtk3 package for Normal RDP Client
+Changes:
+ nrc-gtk3 (0.0.7-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 685c7135e91074114a4723d22b702e1d34dbd910 509 nrc-gtk3_0.0.7-2.dsc
+ b76c68b81184717f9653b2a387e454b81fe97597 904 nrc-gtk3_0.0.7-2.tar.gz
+ 479214bcc51c25d9e898813d97a1d1483e36d345 1404 nrc-gtk3_0.0.7-2_all.deb
+ 8fe79f848b459113c122d4ca21ab98d4158d9bc4 4458 nrc-gtk3_0.0.7-2_amd64.buildinfo
+Checksums-Sha256:
+ 80bb38e6820e4ca3768540572c03adc4e45907ae6ac6e26b47d44392e2ae3899 509 nrc-gtk3_0.0.7-2.dsc
+ 59ca730d5398760c3595075f285244fb963295b0cbc9ee5490832161051321b9 904 nrc-gtk3_0.0.7-2.tar.gz
+ 05680ccdb67e478f8ff8c6f3be7ddcc9c697756f367d2c77db42e6b0e34e49f0 1404 nrc-gtk3_0.0.7-2_all.deb
+ c08ebe78e457274c9c25b39c1f70443faf1502f771b531094b915e0cb5b543fe 4458 nrc-gtk3_0.0.7-2_amd64.buildinfo
+Files:
+ 7c7d50ba46fbb8849ae966f01ee0a0e3 509 contrib/net optional nrc-gtk3_0.0.7-2.dsc
+ aeac64c900915873721da3cdaa8d4eb1 904 contrib/net optional nrc-gtk3_0.0.7-2.tar.gz
+ 77c6fd12e4abc20b76092eb14b14b64d 1404 contrib/net optional nrc-gtk3_0.0.7-2_all.deb
+ f629fa87a986febc9f49ad2df397bf03 4458 contrib/net optional nrc-gtk3_0.0.7-2_amd64.buildinfo

@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 30 Jul 2020 12:00:00 +0000
+Source: nrc-qt5
+Binary: nrc-qt5
+Architecture: source all
+Version: 0.0.7-2
+Distribution: unstable
+Urgency: low
+Maintainer: fishnet <kaminskiy.a@fish-net.kz>
+Changed-By: fishnet <kaminskiy.a@fish-net.kz>
+Description:
+ nrc-qt5    - qt5 package for Normal RDP Client
+Changes:
+ nrc-qt5 (0.0.7-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 74f1c967cb447e8219b564a5e9f65b65225fd766 503 nrc-qt5_0.0.7-2.dsc
+ 32a4cbf523be293554fd3cab5e57d3a556a87965 901 nrc-qt5_0.0.7-2.tar.gz
+ a3e88b8ae95fe9336785f3d94b1081d465aa3a66 1404 nrc-qt5_0.0.7-2_all.deb
+ fa7eefee3609c5527b2a3851309aaad67ff308d0 4450 nrc-qt5_0.0.7-2_amd64.buildinfo
+Checksums-Sha256:
+ aaea5231a174130f602b9f485e879e9e4a3740988a6be424cf59ccb58e64315c 503 nrc-qt5_0.0.7-2.dsc
+ 231d08ad8c1641154dae1b777a4c196de235fb1597a9dd89dd51f78ded706905 901 nrc-qt5_0.0.7-2.tar.gz
+ c7e09e15a8cde824dc72aecfbea3d28119822bd3c6e1859052fd5daeed239b5d 1404 nrc-qt5_0.0.7-2_all.deb
+ 97892cd01a8dde04490f0cf5ede4e9f6d69d4273ae0373b02fa5fac60cd24261 4450 nrc-qt5_0.0.7-2_amd64.buildinfo
+Files:
+ a196b0c69747d49cc54889510f76e98e 503 contrib/net optional nrc-qt5_0.0.7-2.dsc
+ 3fe6b31e8ac321336ddd22100b2e127d 901 contrib/net optional nrc-qt5_0.0.7-2.tar.gz
+ 9c5b5e5d53e03340aa0c47f670bd0634 1404 contrib/net optional nrc-qt5_0.0.7-2_all.deb
+ fe137c31945677517aa3b65116404238 4450 contrib/net optional nrc-qt5_0.0.7-2_amd64.buildinfo
